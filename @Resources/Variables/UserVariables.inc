@@ -1,3 +1,7 @@
+; This source is subject to the MIT License.
+; Please see the LICENSE file for more information.
+; All other rights reserved.
+
 [Variables]
 ; Due to limitations in variables we have to build the url ourselves later
 ; that means here we just need the basic url as it gives us the email address

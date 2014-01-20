@@ -1,3 +1,7 @@
+; This source is subject to the MIT License.
+; Please see the LICENSE file for more information.
+; All other rights reserved.
+
 [Variables]
 Color1=255,255,255
 Color2=#Color1#,160
