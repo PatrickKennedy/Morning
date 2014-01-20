@@ -3,7 +3,7 @@ About
 
 Morning is a minimalistic calendar reminder that tailors the information provided about each event in an intelligent, meaningful way.
 
-![Morning Screenshot]()
+![Morning Screenshot][Full Screenshot]
 
 Getting Started
 ===============
@@ -25,10 +25,13 @@ There are many ideas I have to further extend this intelligence, but for now, I'
 
 Screenshot
 ==========
-![Morning Screenshot](http://i.imgur.com/XmUNhFF.jpg)
-![Morning Screenshot Time Only](http://i.imgur.com/vFisBWq.jpg)
+![Morning Screenshot][Full Screenshot]
+![Morning Screenshot Time Only][Time Only]
 
 Further Reading
 ===============
 
 What I've done here is made possible largely to the [Google Calendar API v2](https://developers.google.com/google-apps/calendar/v2/reference) Atom Reference. This API will be depreciated November 2014. I hope to have a solution to use v3 by that time (I use this skin daily), but they introduce some functionality that complicates the use in applications like this. If anyone has suggestions, feel free to let me know :)
+
+[Full Screenshot]: http://i.imgur.com/XmUNhFF.jpg
+[Time Only]: http://i.imgur.com/vFisBWq.jpg
